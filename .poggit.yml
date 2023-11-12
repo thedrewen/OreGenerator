@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - main
 projects:
-  KillBoarder:
+  OreGenerator:
     path: ""
     lint:
       phpstan: false
